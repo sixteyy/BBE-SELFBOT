@@ -1,0 +1,23 @@
+{
+    "username": "2ksyrus",
+    "password": "syrusisgod",
+    "autoLogin": "false",
+
+    "nitroSniper": "true",
+    "giveawaySniper": "true",
+    "giveawaySniperDelay": "25",
+    "automaticDMmsgSnipe": "true",
+    "compactSnipeMessages": "true",
+
+    "streamMsgCurrency": "USD",
+    "streamMsgBTC": "1 BTC = $",
+    "streamMsgETH": "1 ETH = $",
+    "streamMsgLTC": "1 LTC = $",
+    "streamURL": "https://www.twitch.tv/syrusisthebestcoder",
+
+    "prefix": "preix here",
+    "logDMsToConsole": "false",
+    "logDelMsgsToConsole": "true",
+    "logBotDelMsgsToConsole": "false",
+    "token": "token here"
+}
